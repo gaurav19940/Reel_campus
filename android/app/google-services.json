@@ -1,44 +1,26 @@
 {
   "project_info": {
-    "project_number": "367748099524",
-    "project_id": "uidauth-ab479",
-    "storage_bucket": "uidauth-ab479.appspot.com"
+    "project_number": "694154549072",
+    "project_id": "reel-campus",
+    "storage_bucket": "reel-campus.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:367748099524:android:ead9e82a7c076888ca8891",
+        "mobilesdk_app_id": "1:694154549072:android:def918295606734ee63e55",
         "android_client_info": {
           "package_name": "com.example.reel_campus"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "367748099524-14shq2l1h85dsjvhea4kvht0k29rela7.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.reel_campus",
-            "certificate_hash": "da650c02fda73a15c9b0a6723d2a6e3300eb54c3"
-          }
-        },
-        {
-          "client_id": "367748099524-p8morbi76rch6jbvem8620q6kovl1amh.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBXqKEkekLMj_6J03q7GYYZDFf0GbE5A6M"
+          "current_key": "AIzaSyDyZqhM2uI7505OJhbs3uffEfwJ7so1uhk"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "367748099524-p8morbi76rch6jbvem8620q6kovl1amh.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }
