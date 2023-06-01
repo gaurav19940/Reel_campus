@@ -131,7 +131,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
         }
         if (!RegExp("^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+.[a-z]+.[a-z]")
             .hasMatch(value)) {
-          return ("Please Enter a valid Rajagiri Mail");
+          return ("Please Enter a valid dseu Mail");
         }
         return null;
       },

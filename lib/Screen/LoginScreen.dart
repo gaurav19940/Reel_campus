@@ -47,7 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
         // reg expression for email validation
         if (!RegExp("^[a-zA-Z0-9+_.-]+@[a-zA-Z0-9.-]+.[a-z]+.[a-z]")
             .hasMatch(value)) {
-          return ("Please Enter a valid Rajagiri mail");
+          return ("Please Enter a valid dseu mail");
         }
         return null;
       },
